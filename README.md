@@ -51,7 +51,7 @@ Improving UI design with hover effects and gradients
 
 ---
 
-##📱 Responsive Design
+## 📱 Responsive Design
 
 This project is fully responsive:
 
@@ -67,7 +67,7 @@ Highlighted "PRO" plan card
 
 ---
 
-##🔗 Technologies Used
+## 🔗 Technologies Used
 
 React.js ⚛️
 JavaScript (ES6+)
